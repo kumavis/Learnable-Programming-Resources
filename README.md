@@ -4,10 +4,11 @@ A collection of projects and ideas to help students grok programming
 
 
 ### REPLs, Visualizations, and Sandboxes
-* visualize, play, and rewind code execution - http://www.fullstack.io/choc/
+* visualize, play, and rewind js code execution - http://www.fullstack.io/choc/
+* visualize, play, and rewind python code execution - http://pythontutor.com/
 * visualize and step through js execution - http://int3.github.io/metajs/
+* step through js execution - http://toolness.github.io/slowmo-js/
 * try out node modules in the browser - http://requirebin.com/
-* step through js execution -http://toolness.github.io/slowmo-js/
 
 ### Visual Programming Languages
 * Blockly, MIT's Scratch in the browser - https://code.google.com/p/blockly/
