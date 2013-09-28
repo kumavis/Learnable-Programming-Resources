@@ -6,6 +6,7 @@ A collection of projects and ideas to help students grok programming
 ### REPLs, Visualizations, and Sandboxes
 * visualize, play, and rewind code execution - http://www.fullstack.io/choc/
 * visualize and step through js execution - http://int3.github.io/metajs/
+* try out node modules in the browser - http://requirebin.com/
 
 ### Visual Programming Languages
 * Blockly, MIT's Scratch in the browser - https://code.google.com/p/blockly/
@@ -23,5 +24,5 @@ A collection of projects and ideas to help students grok programming
 * Graphical Browser-based JS Warrior - http://jswarrior.fusioncharts.com/
 * Original CLI-based Ruby Warrior - https://github.com/ryanb/ruby-warrior
 
-### Game Engines to Make Your Own
+### Turn-key Game Engines to Make Your Own
 * Minecraft-esque voxel games - http://voxeljs.com/
