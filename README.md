@@ -1,5 +1,4 @@
 # Learnable Programming Resources
-===============================
 
 A collection of projects and ideas to help students grok programming
 
