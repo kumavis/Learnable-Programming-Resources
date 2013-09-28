@@ -25,6 +25,7 @@ A collection of projects and ideas to help students grok programming
 * Graphical Browser-based Ruby Warrior - https://www.bloc.io/ruby-warrior
 * Graphical Browser-based JS Warrior - http://jswarrior.fusioncharts.com/
 * Original CLI-based Ruby Warrior - https://github.com/ryanb/ruby-warrior
+* 3D scifi game where you program instead of micromanaging - http://www.ceebot.com/colobot/index-e.php
 
 ### Turn-key Game Engines to Make Your Own
 * Minecraft-esque voxel games - http://voxeljs.com/
