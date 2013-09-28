@@ -14,6 +14,7 @@ A collection of projects and ideas to help students grok programming
 * Blockly, MIT's Scratch in the browser - https://code.google.com/p/blockly/
 
 ### Interactive Tutorials
+* A few web-dev tutorials http://www.codecademy.com/learn
 * Javascript challenges - http://www.jsdares.com/
 * A few Node.js tutorials - http://nodeschool.io/
 
