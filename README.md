@@ -17,6 +17,7 @@ A collection of projects and ideas to help students grok programming. Please con
 * A few web-dev tutorials http://www.codecademy.com/learn
 * Javascript challenges - http://www.jsdares.com/
 * A few Node.js tutorials - http://nodeschool.io/
+* Git basics and branching with visual reference - http://pcottle.github.io/learnGitBranching/
 
 ### Flat Tutorials
 * Many programming languages - http://learnxinyminutes.com/
