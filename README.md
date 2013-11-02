@@ -24,12 +24,13 @@ A collection of projects and ideas to help students grok programming. Please con
 * JS for Cats! - http://jsforcats.com/
 
 ### Progamming Games
-* Graphical Browser-based Ruby Warrior - https://www.bloc.io/ruby-warrior
-* Graphical Browser-based JS Warrior - http://jswarrior.fusioncharts.com/
-* Original CLI-based Ruby Warrior - https://github.com/ryanb/ruby-warrior
-* 3D scifi game where you program instead of micromanaging - http://www.ceebot.com/colobot/index-e.php
-* Write Python programs to control robots and battle others' bots - http://robotgame.org/home
-* (in development) First person mathematician - http://www.mathbreakers.com/
+* (Ruby) Graphical Browser-based Ruby Warrior - https://www.bloc.io/ruby-warrior
+* (Javascript) Graphical Browser-based JS Warrior - http://jswarrior.fusioncharts.com/
+* (Ruby) Original CLI-based Ruby Warrior - https://github.com/ryanb/ruby-warrior
+* (C#) 3D scifi game where you program instead of micromanaging - http://www.ceebot.com/colobot/index-e.php
+* (Python) Write Python programs to control robots and battle others' bots - http://robotgame.org/home
+* (math) First person mathematician - http://www.mathbreakers.com/ (in development)
 
 ### Turn-key Game Engines to Make Your Own
 * Minecraft-esque voxel games - http://voxeljs.com/
+
