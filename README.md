@@ -18,6 +18,7 @@ A collection of projects and ideas to help students grok programming. Please con
 * Javascript challenges - http://www.jsdares.com/
 * A few Node.js tutorials - http://nodeschool.io/
 * Git basics and branching with visual reference - http://pcottle.github.io/learnGitBranching/
+* CPU simulation - http://visual6502.org/JSSim/index.html and guide http://wiki.nesdev.com/w/index.php/Visual_circuit_tutorial
 
 ### Flat Tutorials
 * Many programming languages - http://learnxinyminutes.com/
