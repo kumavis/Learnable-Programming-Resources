@@ -30,6 +30,7 @@ A collection of projects and ideas to help students grok programming. Please con
 * (Ruby) Original CLI-based Ruby Warrior - https://github.com/ryanb/ruby-warrior
 * (C#) 3D scifi game where you program instead of micromanaging - http://www.ceebot.com/colobot/index-e.php
 * (Python) Write Python programs to control robots and battle others' bots - http://robotgame.org/home
+* (typing) Space combat typing game - http://phoboslab.org/ztype/
 * (math) First person mathematician - http://www.mathbreakers.com/ (in development)
 
 ### Turn-key Game Engines to Make Your Own
