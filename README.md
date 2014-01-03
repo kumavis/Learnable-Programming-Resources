@@ -1,6 +1,6 @@
 # Learnable Programming Resources
 
-A collection of projects and ideas to help students grok programming. Please contribute what resources you know.
+A collection of projects and ideas to help students grok programming. _Please contribute what resources you know._
 
 
 ### REPLs, Visualizations, and Sandboxes
