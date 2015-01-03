@@ -4,28 +4,8 @@ A collection of projects and ideas to help students grok programming.
 _Please contribute what resources you know._
 
 
-### REPLs, Visualizations, and Sandboxes
-* visualize, play, and rewind js code execution - http://www.fullstack.io/choc/
-* visualize, play, and rewind python code execution - http://pythontutor.com/
-* visualize and step through js execution - http://int3.github.io/metajs/
-* step through js execution - http://toolness.github.io/slowmo-js/
-* try out node modules in the browser - http://requirebin.com/
-
-### Visual Programming Languages
-* Blockly, MIT's Scratch in the browser - https://code.google.com/p/blockly/
-
-### Interactive Tutorials
-* (Javascript) Many tutorials - http://nodeschool.io/
-* A few web-dev tutorials http://www.codecademy.com/learn
-* Javascript challenges - http://www.jsdares.com/
-* Git basics and branching with visual reference - http://pcottle.github.io/learnGitBranching/
-
-### Flat Tutorials
-* (Javascript) JS for Cats! - http://jsforcats.com/
-* (Full Stack) Quick references for many programming languages - http://learnxinyminutes.com/
-* (Full Stack) Introduction to web dev http://www.theodinproject.com/courses?ref=home_b
-
 ### Progamming Games
+* (Various) game-dev programming challenges - http://www.codingame.com/
 * (Javascript) "Untrusted": js hacking adventure - http://alexnisnevich.github.io/untrusted/
 * (Javascript) Graphical Browser-based JS Warrior - http://jswarrior.fusioncharts.com/
 * (Ruby) Graphical Browser-based Ruby Warrior - https://www.bloc.io/ruby-warrior
@@ -35,6 +15,27 @@ _Please contribute what resources you know._
 * (CSS) introducorty level game - http://flukeout.github.io/
 * (typing) Space combat typing game - http://phoboslab.org/ztype/
 * (math) First person mathematician - http://www.mathbreakers.com/ (in development)
+
+### Interactive Tutorials
+* (Javascript) Many tutorials - http://nodeschool.io/
+* A few web-dev tutorials http://www.codecademy.com/learn
+* Javascript challenges - http://www.jsdares.com/
+* Git basics and branching with visual reference - http://pcottle.github.io/learnGitBranching/
+
+### REPLs, Visualizations, and Sandboxes
+* visualize, play, and rewind js code execution - http://www.fullstack.io/choc/
+* visualize, play, and rewind python code execution - http://pythontutor.com/
+* visualize and step through js execution - http://int3.github.io/metajs/
+* step through js execution - http://toolness.github.io/slowmo-js/
+* try out node modules in the browser - http://requirebin.com/
+
+### Flat Tutorials
+* (Javascript) JS for Cats! - http://jsforcats.com/
+* (Full Stack) Quick references for many programming languages - http://learnxinyminutes.com/
+* (Full Stack) Introduction to web dev http://www.theodinproject.com/courses?ref=home_b
+
+### Visual Programming Languages
+* Blockly, MIT's Scratch in the browser - https://code.google.com/p/blockly/
 
 ### Other CompSci
 * Assembly simulator - http://schweigi.github.io/assembler-simulator/
