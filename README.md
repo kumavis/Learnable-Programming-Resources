@@ -8,6 +8,7 @@ _Please contribute what resources you know._
 * (Various) game-dev programming challenges - http://www.codingame.com/
 * (Javascript) "Untrusted": js hacking adventure - http://alexnisnevich.github.io/untrusted/
 * (Javascript) Graphical Browser-based JS Warrior - http://jswarrior.fusioncharts.com/
+* (Javascript) http://play.elevatorsaga.com/#challenge=1
 * (Ruby) Graphical Browser-based Ruby Warrior - https://www.bloc.io/ruby-warrior
 * (Ruby) Original CLI-based Ruby Warrior - https://github.com/ryanb/ruby-warrior
 * (C#) 3D scifi game where you program instead of micromanaging - http://www.ceebot.com/colobot/index-e.php
