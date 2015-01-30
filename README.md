@@ -16,6 +16,7 @@ _Please contribute what resources you know._
 * (CSS) introducorty level game - http://flukeout.github.io/
 * (git) A game inside of git - https://github.com/hgarc014/git-game
 * (typing) Space combat typing game - http://phoboslab.org/ztype/
+* (vim) PacVim is a game that teaches you vim commands - https://github.com/jmoon018/PacVim
 * (math) First person mathematician - http://www.mathbreakers.com/ (in development)
 * (math) Solve math puzzles with programming -  https://projecteuler.net
 
