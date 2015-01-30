@@ -13,7 +13,7 @@ _Please contribute what resources you know._
 * (Ruby) Original CLI-based Ruby Warrior - https://github.com/ryanb/ruby-warrior
 * (C#) 3D scifi game where you program instead of micromanaging - http://www.ceebot.com/colobot/index-e.php
 * (Python) Write Python programs to control robots and battle others' bots - http://robotgame.org/home
-* (CSS) introducorty level game - http://flukeout.github.io/
+* (CSS) CSS Diner - intro to selectors - http://flukeout.github.io/
 * (git) A game inside of git - https://github.com/hgarc014/git-game
 * (typing) Space combat typing game - http://phoboslab.org/ztype/
 * (vim) PacVim is a game that teaches you vim commands - https://github.com/jmoon018/PacVim
