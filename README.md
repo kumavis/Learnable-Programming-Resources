@@ -14,14 +14,17 @@ _Please contribute what resources you know._
 * (C#) 3D scifi game where you program instead of micromanaging - http://www.ceebot.com/colobot/index-e.php
 * (Python) Write Python programs to control robots and battle others' bots - http://robotgame.org/home
 * (CSS) introducorty level game - http://flukeout.github.io/
+* (git) A game inside of git - https://github.com/hgarc014/git-game
 * (typing) Space combat typing game - http://phoboslab.org/ztype/
 * (math) First person mathematician - http://www.mathbreakers.com/ (in development)
+* (math) Solve math puzzles with programming -  https://projecteuler.net
 
 ### Interactive Tutorials
 * (Javascript) Many tutorials - http://nodeschool.io/
 * A few web-dev tutorials http://www.codecademy.com/learn
 * Javascript challenges - http://www.jsdares.com/
 * Git basics and branching with visual reference - http://pcottle.github.io/learnGitBranching/
+* Learn about the peer review process - exercism.io
 
 ### REPLs, Visualizations, and Sandboxes
 * visualize, play, and rewind js code execution - http://www.fullstack.io/choc/
